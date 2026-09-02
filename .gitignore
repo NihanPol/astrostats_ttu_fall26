@@ -3,3 +3,4 @@
 *.docx
 */.ipynb_checkpoints/*
 ./solved_lectures/*
+coursework/homeworks/.ipynb_checkpoints/
